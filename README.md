@@ -20,9 +20,3 @@ Gitsta is a playful iOS app built with SwiftUI that lets you look up GitHub user
 - Combine
 - GitHub REST API
 - Async/Await (iOS 15+)
-
-## Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/Gitsta.git
