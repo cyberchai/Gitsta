@@ -1,6 +1,6 @@
 # Gitsta
 
-Gitsta is a playful iOS app built with SwiftUI that lets you look up GitHub users and view their profile information—complete with randomized taglines for a fun twist.
+Gitsta is an iOS app built with SwiftUI that lets you look up GitHub users and view their profile information with randomized taglines.
 
 ## Features
 
