@@ -12,7 +12,7 @@ Gitsta is a playful iOS app built with SwiftUI that lets you look up GitHub user
 
 ## Screenshots
 
-![Gitsta screenshot](assets/screenshot.png)
+![Gitsta screenshot](Gitsta/assets/screenshot.png)
 
 ## Technologies
 
